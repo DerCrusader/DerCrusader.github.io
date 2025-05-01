@@ -1,0 +1,18 @@
+.Links{color:black;}
+.Stext{margin-left: 25%;overflow-x:hidden;overflow-y: scroll;width:50%;}
+.Decision{text-align: center;}
+
+h1 {text-align: center;font-size:50px; font-weight: bold;}
+h2 {text-align: center;font-size:25px;}
+img{height: 250px;}
+body{background-color: moccasin;}
+
+#wald1{border: 10px ridge rgb(84, 133, 10);}
+#stadt1{border: 10px ridge burlywood;}
+#hauptseite{font-family:'Gill Sans MT' ;}
+#Credits{font-family:fantasy;margin-top: 200px; text-align: center;}
+#Creditlink{color: white;}
+
+.anfang{color: black;font-style: oblique;
+    font-family:Impact, Haettenschweiler,;font-size: smaller;font-weight: lighter;
+    text-align: right;}

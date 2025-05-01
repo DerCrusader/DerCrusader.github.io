@@ -1,0 +1,15 @@
+.Links{color: white;}
+.death{font-style: italic;}
+.underlined{text-decoration: underline;}
+.bild{margin-left: 30%;height:350px;width:40%;}
+.Stext{overflow-x:hidden;overflow-y: scroll; width:50%;}
+.Decision{margin-left: 32%;}
+
+p{color: darkred;margin-top:50px;margin-left:25%;}
+body{background-color: black;}
+h1{color:darkred;text-align: center; font-weight: bold;}
+
+#bild1{margin-left:35%;}
+#goblin{font-family:Verdana;}
+#dieb{font-family:'Lucida Sans';}
+

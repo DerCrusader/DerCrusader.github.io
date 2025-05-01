@@ -1,0 +1,23 @@
+h1 {text-align: center;font-size:50px;font-weight: bold;}
+h2 {text-align: center;font-size:25px;}
+body{background-color:sandybrown;}
+
+.bild{margin-left: 25%;height:350px;width:50%;}
+.Stext{margin-left: 25%;overflow-x:hidden;overflow-y: scroll;width:50%;}
+.StextL{margin-left: 25%;overflow-x:hidden;overflow-y: scroll;width:50%;height:200px;}
+.Decision{ text-align: center;}
+.Links{color:black;}
+.skip{font-size: smaller;text-align: center;color: black;}
+.listenA{text-align: center;}
+.listenI{display: inline-block;}
+.kursiv{font-style: italic;}
+
+
+#markt1 {border: 10px ridge orange;}
+#stadt2 {border: 10px ridge cadetblue}
+#link1 { margin-left: 40%;}
+#schmiedwegstyle{font-family:'trebuchet MS';}
+
+.anfang{color: black;font-style: oblique;
+    font-family:Impact, Haettenschweiler,;font-size: smaller;font-weight: lighter;
+    text-align: right;}
